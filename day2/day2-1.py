@@ -1,5 +1,6 @@
 f=open("day2/day2-input.txt",'r')
 l=f.read().splitlines()
+f.close()
 data=[list(map(int,i.split())) for i in l]
 #print(data)
 

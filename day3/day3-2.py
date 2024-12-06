@@ -1,6 +1,7 @@
 import re
 f=open("day3/day3-input.txt",'r')
 data=f.read().split("do()")
+f.close()
 
 l=[]
 count=0

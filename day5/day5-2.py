@@ -1,5 +1,6 @@
 f=open("day5/day5-input.txt",'r')
 data=f.read().split('\n\n')
+f.close()
 rules=[list(map(int,i.split('|'))) for i in data[0].split()]
 updates=[list(map(int,i.split(','))) for i in data[1].split()]
 # print(rules)
