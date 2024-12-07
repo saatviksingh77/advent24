@@ -3,6 +3,6 @@ Contains the solutions I coded for [Advent of Code 2024](https://adventofcode.co
 May not be the best solutions out there, but just for records.<br><br>
 First attempt at taking part in something like this (started slightly late, by day3)
 
-Pending:<br>
+Pending:
 - day2/2<br>
 - day6/2
