@@ -4,5 +4,4 @@ May not be the best solutions out there, but just for records.<br><br>
 First attempt at taking part in something like this (started slightly late, by day3)
 
 Pending:
-- day2/2<br>
 - day6/2
