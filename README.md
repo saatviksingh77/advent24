@@ -9,7 +9,7 @@ First attempt at taking part in something like this (started slightly late, by d
 - day10/1
 - day10/2
 
-###get better solution:
+### get better solution:
 - day1 
 - day2 
 - day3 
