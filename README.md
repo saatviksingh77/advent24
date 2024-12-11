@@ -4,3 +4,5 @@ May not be the best solutions out there, but just for records.<br><br>
 First attempt at taking part in something like this (started slightly late, by day4)
 ### Pending
 - day9/2
+- day10/1
+- day10/2
