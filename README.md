@@ -22,7 +22,7 @@ First attempt at taking part in something like this (started slightly late, by d
 - day8 
 - day9 
 - day10 
-- day11 
+- day11 ✅
 - day12 
 - day13 ✅
 - day14 ✅
@@ -42,4 +42,8 @@ First attempt at taking part in something like this (started slightly late, by d
 ✅ got new
 
 ### took hints
-- 
+- day11/2
+- day14/2
+
+<br><br>
+[@hyperneutrino](https://www.youtube.com/@hyper-neutrino) - credits for amazing solutions
