@@ -1,6 +1,6 @@
 # Advent of Code 2024 🎄
 Contains the solutions I coded for [Advent of Code 2024](https://adventofcode.com/2024)<br>
-May not be the best solutions out there, but just for records.<br><br>
+May not be the best solutions out there, but just for records. (some are done with hints, indicated)<br><br>
 First attempt at taking part in something like this (started slightly late, by day4)
 <br><br>
 
@@ -8,8 +8,10 @@ First attempt at taking part in something like this (started slightly late, by d
 - day9/2
 - day10/1
 - day10/2
+- day12/1
+- day12/2
 
-### get better solution:
+### get a more efficient solution(online help)
 - day1 
 - day2 
 - day3 
@@ -23,7 +25,7 @@ First attempt at taking part in something like this (started slightly late, by d
 - day11 
 - day12 
 - day13 ✅
-- day14 
+- day14 ✅
 - day15 
 - day16 
 - day17 
@@ -38,3 +40,6 @@ First attempt at taking part in something like this (started slightly late, by d
 <br>
 ☑️ old works<br>
 ✅ got new
+
+### took hints
+- 
