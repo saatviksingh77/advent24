@@ -10,6 +10,7 @@ First attempt at taking part in something like this (started slightly late, by d
 - day10/2
 - day12/1
 - day12/2
+- day15/2
 
 ### get a more efficient solution(online help)
 - day1 
